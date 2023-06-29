@@ -1,1 +1,1 @@
-# Tip-Calculator
+# This program is a tip calculator. It will ask the user for input and calculate the total price of the meal based on the food that the user orders, the tax, and the tip that the user chooses to give. 
